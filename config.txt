@@ -1,0 +1,3 @@
+app_id = [your app id]
+secret_id = [your secret id]
+token = [your token]
